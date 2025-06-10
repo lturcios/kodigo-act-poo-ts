@@ -7,10 +7,10 @@ Este repositorio contiene la resolución de una serie de ejercicios prácticos d
 El proyecto está configurado con Vite, un entorno de desarrollo rápido, que facilita la compilación y ejecución del código TypeScript en el navegador.
 
 ### Tecnologías Utilizadas
-TypeScript: Lenguaje de programación que añade tipado estático a JavaScript.
-Vite: Herramienta de construcción.
-Programación Orientada a Objetos (POO): Paradigma de programación.
-Pilares de POO Aplicados
+TypeScript: Lenguaje de programación que añade tipado estático a JavaScript.<br/>
+Vite: Herramienta de construcción.<br/>
+Programación Orientada a Objetos (POO): Paradigma de programación.<br/>
+Pilares de POO Aplicados<br/>
 
 ### Durante el desarrollo de estos ejercicios, se han puesto en práctica los siguientes pilares de la POO:
 
